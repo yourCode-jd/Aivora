@@ -15,8 +15,8 @@ A sleek AI landing page that highlights why choose AI and how it works with smoo
 
 (Add your screenshots below)
 
-![Desktop View](https://prnt.sc/yqOdTSH5Hh3q)  
-![Responsive View](https://prnt.sc/MEqGRQUI1bTP)
+![Desktop View](./assets/images/Ai_desktop.png)  
+![Responsive View](./assets/images/Ai_mob.png)
 
 ---
 
